@@ -7,7 +7,7 @@ namespace R5T.S0096
     {
         static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Demonstrations.Instance.AdjustRepositoryName_ForPrivacy();
         }
     }
 }
